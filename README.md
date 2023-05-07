@@ -19,7 +19,7 @@
  <li>Java/C#</li>
  <li>MySQL</li>
  <li>GitHub</li>
-</ul
+</ul>
 <h2>ToDO List</h2>
 <ul>
  <li>Закончить курс на Stepik по Java</li>
