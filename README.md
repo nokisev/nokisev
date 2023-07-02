@@ -26,6 +26,7 @@
  <li>Закончить курс на Stepik по Java (44%)</li>
  <li>Прочитать "Грокаем Алгоритмы" Харбанс Ришал (0%)</li>
  <li>Прочитать "Java: Руководство для начинающих" Герберт Шилдт (0%)</li>
+ <li>Прочитать "Структуры данных и алгоритмы в Java" Лафоре Роберт (6%)</li>
 </ul>
 <p align = 'right'>
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64497ddfe272577374985448?variant=dark" alt="roadmap.sh"/></a>
