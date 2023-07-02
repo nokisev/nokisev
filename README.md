@@ -12,7 +12,7 @@
 Начинающий разработчик на Java. Хочу оттачивать свои навыки и совершенствоваться в разных направлениях.
 
 <p align = 'center'>
- <a href="https://github-readme-stats.vercel.app/api?username=nokisev&show_icons=true&count_private=true&theme=dark"><img height=150 src="https://github-readme-stats.vercel.app/api?username=nokisev&show_icons=true&count_private=true&theme=dark" /> [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64497ddfe272577374985448?variant=dark&roadmaps=java)](https://roadmap.sh)</a>
+ <a href="https://github-readme-stats.vercel.app/api?username=nokisev&show_icons=true&count_private=true&theme=dark"><img height=150 src="https://github-readme-stats.vercel.app/api?username=nokisev&show_icons=true&count_private=true&theme=dark" /> </a>
 </p>
 <h2>Technical Stack</h2>
 <ul>
@@ -26,4 +26,6 @@
  <li>Закончить курс на Stepik по Java (44%)</li>
  <li>Прочитать "Грокаем Алгоритмы" Харбанс Ришал (0%)</li>
  <li>Прочитать "Java: Руководство для начинающих" Герберт Шилдт (0%)</li>
-</ul
+</ul>
+<p align = 'right'>
+<img src="https://api.roadmap.sh/v1-badge/tall/64497ddfe272577374985448?variant=dark&roadmaps=java">
