@@ -28,4 +28,4 @@
  <li>Прочитать "Java: Руководство для начинающих" Герберт Шилдт (0%)</li>
 </ul>
 <p align = 'right'>
-<img src="https://api.roadmap.sh/v1-badge/tall/64497ddfe272577374985448?variant=dark&roadmaps=java">
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64497ddfe272577374985448?variant=dark" alt="roadmap.sh"/></a>
