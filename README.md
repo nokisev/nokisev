@@ -11,9 +11,6 @@
 
 Начинающий разработчик на Java. Хочу оттачивать свои навыки и совершенствоваться в разных направлениях.
 
-<p align = 'center'>
- <a href="https://github.com/nokisev"><img src="https://api.roadmap.sh/v1-badge/tall/64497ddfe272577374985448?variant=dark&roadmaps=java%2Cbackend" alt="roadmap.sh"/></a>
-</p>
 <h2>Languages</h2>
 <p align = 'right'>
  <a href="https://github.com/nokisev">
