@@ -14,13 +14,13 @@
 <h2>Languages</h2>
 <p align = 'right'>
  <a href="https://github.com/nokisev">
-  <img src="https://skillicons.dev/icons?i=cs,java,html,css,js,nextjs">
+  <img src="https://skillicons.dev/icons?i=cs,java,html,css,js">
  </a>
 </p>
 <h2>Frameworks</h2>
 <p align = 'right'>
  <a href="https://github.com/nokisev">
-  <img src="https://skillicons.dev/icons?i=spring">
+  <img src="https://skillicons.dev/icons?i=spring,nextjs">
  </a>
 </p>
 <h2>ToDO List</h2>
