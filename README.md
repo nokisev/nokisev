@@ -20,7 +20,7 @@
 <h2>Frameworks</h2>
 <p align = 'right'>
  <a href="https://github.com/nokisev">
-  <img src="https://skillicons.dev/icons?i=spring,nextjs">
+  <img src="https://skillicons.dev/icons?i=spring,nextjs,react">
  </a>
 </p>
 <h2>ToDO List</h2>
