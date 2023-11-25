@@ -23,6 +23,7 @@
   <img src="https://skillicons.dev/icons?i=spring,nextjs,react">
  </a>
 </p>
+<p  align='center'><img src="https://i.pinimg.com/originals/49/06/59/490659714c77ed847802d29f3cf34100.gif"></p>
 <h2>ToDO List</h2>
 <ul>
  <li>Прочитать "Структуры данных и алгоритмы в Java" Лафоре Роберт (6%)</li>
@@ -40,3 +41,5 @@
  <li>Стать помогаторомтимлидомсеньоромджава</li>
  <li>Разбогатеть</li>
 </ul>
+
+
