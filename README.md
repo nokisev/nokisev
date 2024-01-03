@@ -32,7 +32,7 @@
  <li>Прочитать "CRACKING the CODING INTERVIEW" GAYLE LAAKMANN (0%)</li>
  <li>Прочитать "Java: Руководство для начинающих" Герберт Шилдт (0%)</li>
  <li>Прочитать "Основы алгоритмов" Хэнбук Яндекс (2%)</li>
- <li>Решить 50 задач на leetcode(24/50)</li>
+ <li>Решить 50 задач на leetcode(40/50)</li>
  <li>CS50 Lectures (0%)</li>
 </ul>
 <h2>Dream List</h2>
