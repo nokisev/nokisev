@@ -23,14 +23,11 @@
 <p  align='center'><img src="https://i.pinimg.com/originals/49/06/59/490659714c77ed847802d29f3cf34100.gif"></p>
 <h2>ToDO List</h2>
 <ul>
- <li>Прочитать "Структуры данных и алгоритмы в Java" Лафоре Роберт (6%)</li>
- <li>Прочитать "Spring в действии" Крейг Уоллс (28%)</li>
- <li>Прочитать "Грокаем Алгоритмы" Харбанс Ришал (0%)</li>
- <li>Прочитать "CRACKING the CODING INTERVIEW" GAYLE LAAKMANN (0%)</li>
- <li>Прочитать "Java: Руководство для начинающих" Герберт Шилдт (0%)</li>
- <li>Прочитать "Основы алгоритмов" Хэнбук Яндекс (2%)</li>
- <li>Решить 50 задач на leetcode(40/50)</li>
- <li>CS50 Lectures (0%)</li>
+ <li>Прочитать "Core Java Volume I - Fundamentals" Cay S. Horstmann</li>
+ <li>Прочитать "Core Java Volume II - Advanced Features" Cay S. Horstmann</li>
+ 
+ <li>Прочитать "Грокаем Алгоритмы" Харбанс Ришал</li>
+ <li>Прочитать "Структуры данных и Алгоритмы Java" Роберт Лафоре</li>
 </ul>
 <h2>Dream List</h2>
 <ul>
