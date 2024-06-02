@@ -17,7 +17,7 @@
 <h2>Frameworks</h2>
 <p align = 'right'>
  <a href="https://github.com/nokisev">
-  <img src="https://skillicons.dev/icons?i=spring,nextjs,react">
+  <img src="https://skillicons.dev/icons?i=spring,nextjs,react,vue">
  </a>
 </p>
 <p  align='center'><img src="https://i.pinimg.com/originals/49/06/59/490659714c77ed847802d29f3cf34100.gif"></p>
