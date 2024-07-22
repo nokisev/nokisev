@@ -21,7 +21,7 @@
  </a>
 </p>
 <p  align='center'><img src="https://i.pinimg.com/originals/49/06/59/490659714c77ed847802d29f3cf34100.gif"></p>
-<h2>ToDO List</h2>
+<h2>ToDO List до сентября</h2>
 <ul>
  <li>Прочитать "Core Java Volume I - Fundamentals" Cay S. Horstmann</li>
  <li>Прочитать "Core Java Volume II - Advanced Features" Cay S. Horstmann</li>
