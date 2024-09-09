@@ -23,7 +23,7 @@
 <p  align='center'><img src="https://i.pinimg.com/originals/49/06/59/490659714c77ed847802d29f3cf34100.gif"><a href="https://github.com/anuraghazra/convoychat">
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=nokisev&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a></p>
-<h2>ToDO List до сентября</h2>
+<h2>ToDO List до сессии</h2>
 <ul>
  <li>Прочитать "Core Java Volume I - Fundamentals" Cay S. Horstmann</li>
  <li>Прочитать "Core Java Volume II - Advanced Features" Cay S. Horstmann</li>
