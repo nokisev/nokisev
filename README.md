@@ -8,16 +8,16 @@
  📧Как со мной связаться: <a href="mailto:sevnoki26@gmail.com">sevnoki26@gmail.com</a>
 </p>
 
-<h2>Languages</h2>
+<h2>Tech Stack</h2>
 <p align = 'right'>
  <a href="https://github.com/nokisev">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres">
  </a>
 </p>
-<h2>Frameworks</h2>
+<h2>In_progress</h2>
 <p align = 'right'>
  <a href="https://github.com/nokisev">
-  <img src="https://skillicons.dev/icons?i=spring,react,redis,kafka,postgres,mysql">
+  <img src="https://skillicons.dev/icons?i=redis,kafka">
  </a>
 </p>
 <p  align='center'><img src="https://i.pinimg.com/originals/49/06/59/490659714c77ed847802d29f3cf34100.gif"><a href="https://github.com/anuraghazra/convoychat">
