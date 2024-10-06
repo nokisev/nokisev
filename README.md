@@ -11,7 +11,7 @@
 <h2>Tech Stack</h2>
 <p align = 'right'>
  <a href="https://github.com/nokisev">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,git">
  </a>
 </p>
 <h2>In_progress</h2>
