@@ -5,7 +5,7 @@
  <a href="https://steamcommunity.com/id/nokisev/"><img target="_blank" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 </p>
 <p align='center'>  
- 📧Как со мной связаться: <a href="mailto:egorkaevd210@gmail.com">egorkaevd210@gmail.com</a>
+ 📧Как со мной связаться: <a href="mailto:nokisev@mail.ru">nokisev@mail.ru</a>
 </p>
 
 <h2>Tech Stack</h2>
