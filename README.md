@@ -36,5 +36,9 @@
  <li>Стать помогаторомтимлидомсеньоромджава</li>
  <li>Разбогатеть</li>
 </ul>
+<p align="right">
+ <a href="https://wakatime.com/@6c8b5a41-3319-4bff-960c-e202aea18a81"><img src="https://wakatime.com/badge/user/6c8b5a41-3319-4bff-960c-e202aea18a81.svg" alt="Total time coded since Oct 2 2024" /></a>
+</p>
+
 
 
