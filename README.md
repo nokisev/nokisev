@@ -7,20 +7,20 @@
  📧Как со мной связаться: <a href="mailto:nokisev@mail.ru">nokisev@mail.ru</a>
 </p>
 
-<h2>Tech Stack</h2>
+<h2 align = 'right'>Tech Stack</h2>
 <p align = 'right'>
  <a href="https://github.com/nokisev">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,docker">
  </a>
 </p>
-<h2>In_progress</h2>
+<h2 align = 'right'>In_progress</h2>
 <p align = 'right'>
  <a href="https://github.com/nokisev">
   <img src="https://skillicons.dev/icons?i=redis,kafka,elasticsearch,mongodb">
  </a>
 </p>
 <p  align='center'>
- <img src="https://i.pinimg.com/originals/49/06/59/490659714c77ed847802d29f3cf34100.gif">
+ <img src="https://64.media.tumblr.com/abfb1ad8dfb6dbff79a0425e22216c3f/tumblr_nm6qabEDjk1rvxid3o1_500.gifv"/>
 </p>
 <h2>ToDO List до сессии</h2>
 <ul>
