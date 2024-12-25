@@ -22,13 +22,13 @@
 <p  align='center'>
  <img src="https://64.media.tumblr.com/abfb1ad8dfb6dbff79a0425e22216c3f/tumblr_nm6qabEDjk1rvxid3o1_500.gifv"/>
 </p>
-<h2>ToDO List до сессии</h2>
+<h2>ToDO List</h2>
 <ul>
- <li>Прочитать "Core Java Volume I - Fundamentals" Cay S. Horstmann</li>
- <li>Прочитать "Core Java Volume II - Advanced Features" Cay S. Horstmann</li>
- 
- <li>Прочитать "Грокаем Алгоритмы" Харбанс Ришал</li>
- <li>Прочитать "Структуры данных и Алгоритмы Java" Роберт Лафоре</li>
+ <li>Столяров А. В. "Азы Программирования"</li>
+ <li>Столяров А. В. "Системы и сети"</li>
+ <li>Столяров А. В. "Парадигмы"</li>
+ <li>Харбанс Ришал "Грокаем Алгоритмы"</li>
+ <li>Роберт Лафоре "Структуры данных и Алгоритмы Java"</li>
 </ul>
 <h2>Dream List</h2>
 <ul>
