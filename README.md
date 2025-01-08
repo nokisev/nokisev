@@ -7,13 +7,13 @@
  📧Как со мной связаться: <a href="mailto:nokisev@mail.ru">nokisev@mail.ru</a>
 </p>
 
-<h2 align = 'right'>Tech Stack</h2>
+<h2 align = 'right'>My Tech Stack</h2>
 <p align = 'right'>
  <a href="https://github.com/nokisev">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,git,docker">
  </a>
 </p>
-<h2 align = 'right'>In_progress</h2>
+<h2 align = 'right'>Future</h2>
 <p align = 'right'>
  <a href="https://github.com/nokisev">
   <img src="https://skillicons.dev/icons?i=redis,kafka,elasticsearch,mongodb">
