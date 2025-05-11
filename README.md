@@ -8,7 +8,7 @@
 <p  align='center'>
  <img src="https://i.pinimg.com/originals/7e/64/53/7e6453a23165c661b304dde10d16a538.gif"/>
 </p>
-<p align='center'>Цели до мая:
+<p align='center'>Цели до июня:
   <ul align='center'>
     <ol>Роберт Лафоре "Структуры данных и алгоритмы Java"</ol>
     <ol>LeetCode 200 задач</ol>
